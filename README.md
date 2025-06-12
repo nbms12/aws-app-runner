@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07971fc1-583b-4bec-9389-4d18265b9d1d)# aws-app-runner service 
+
 
 #Problem : 
 eliminating the need for infrastructure management often associated with Kubernetes. Running a cluster required redundant management nodes and over-provisioning due to slow autoscaling, leading to wasted resources. Scaling Issues: Managing high job volumes was challenging, more time is consumed on deployment. 
