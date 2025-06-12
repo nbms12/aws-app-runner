@@ -1,10 +1,11 @@
 
 
-#Problem : 
+##Problem : 
+
 eliminating the need for infrastructure management often associated with Kubernetes. Running a cluster required redundant management nodes and over-provisioning due to slow autoscaling, leading to wasted resources. Scaling Issues: Managing high job volumes was challenging, more time is consumed on deployment. 
 
 
-#Solution : 
+##Solution : 
 AWS App Runner as an alternative to Kubernetes (K8s) for deploying web applications and APIs. App Runner offers a simplified, fully managed approach to container deployment, eliminating the need for infrastructure management often associated with K8s
 
 
