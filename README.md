@@ -55,4 +55,16 @@ Environment value as any value
 
  make a change to your code in the repository source directory. The App Runner CI/CD capability automatically builds and deploys the change to your service.
 
+![image](https://github.com/user-attachments/assets/8a3bcfef-3523-4d5f-95c2-fd62b8184f98)
 
+
+7. debug and troubeshoot
+
+   we can see  logs for your service, attached to our app, there are 3 types of logs
+
+
+   Event log – Activity in the lifecycle of your App Runner service. The console displays the latest events.
+
+   Deployment logs – Source repository deployments to your App Runner service. The console displays a separate log stream for each deployment.
+
+   Application logs – The output of the web application that's deployed to your App Runner service. The console combines the output from all running instances into a single log stream.
